@@ -2,7 +2,7 @@
 
 ###### SUMMARY
 
-*	Over 10 years of experience in the area of software development for mobiles and web, which includes understanding requirement specification, working on software design, coding, testing and maintenance.
+*	Over 12 years of experience in the area of software development for mobiles and web, which includes understanding requirement specification, working on software design, coding, testing and maintenance.
 *	Skilled in developing APIs using Laravel or Codeigniter.
 *	Experience in using writing web technologies for mobile, which includes  Ajax, Javascript, HTML5, CSS3.
 *	Experienced of working on iOS platform and frameworks and customizing it as per requirements.
